@@ -11,7 +11,7 @@
 </p>
 
 ### [🧪 化学开源项目总览 / Chemistry Open Source Projects Overview](./projects.md)
-### [☢️ 经验之谈 / Experiences](./xp_CN.md)
+### [☢️ 经验之谈 / Experiences](./xp-CN.md)
 ### [⚠️ 氯家化学灾难喜剧集 / Chloride Family Chemistry Comedies](./Chloride_Family_Chemistry_Stories.md)
 ### [💛 支持我 / Support Me](./Donate.md)
 ---
