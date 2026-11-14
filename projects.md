@@ -1,3 +1,5 @@
+[简体中文] | [English](./projects-EN.md)
+
 # 🧪 化学开源项目总览
 > 本页汇总自创元素周期表、元素户口簿相关内容，所有作品采用 CC BY-SA 4.0 协议开源。
 > 图片均存放于本仓库 assets 目录，点击预览图跳转至对应项目仓库。
@@ -13,13 +15,13 @@
 - 推荐字体：STIX Two、霞鹜文楷（OFL字体不要钱，放心用）
 
 ## 🔹 元素户口簿
-[![元素户口簿预览](./assets/(还没上传).png)](https://github.com/GoldTrichloride/element-dossier)
+[![元素户口簿封面](./assets/000-cover.png)](https://github.com/GoldTrichloride/element-dossier)
 - 简介：118 种元素完整档案库，收录元素基础信息、理化参数、化学方程式、注释与彩蛋。
 - 开源协议：CC BY-SA 4.0
 - 仓库地址：https://github.com/GoldTrichloride/element-dossier
-- 示例档案预览：
-[![元素档案示例1](./assets/(还没上传).png)](https://github.com/GoldTrichloride/Element-Register)
-[![元素档案示例2](./assets/(还没上传).png)](https://github.com/GoldTrichloride/Element-Register)
+- 示例内容预览：
+[![元素户口簿示例1](./assets/015-card-base.png)](https://github.com/GoldTrichloride/element-dossier)
+[![元素户口簿示例2](./assets/015-reaction-01.png)](https://github.com/GoldTrichloride/element-dossier)
 
 ---
 
