@@ -12,7 +12,7 @@
 
 ### 关注方式 / Follow
 <p align="center">
-<a href="https://space.bilibili.com/3493280868296898"><img src="https://img.shields.io/badge/-氯化金-fb7299?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili"></a>
+<a href="https://space.bilibili.com/3493280868206890"><img src="https://img.shields.io/badge/-氯化金-fb7299?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili"></a>
 <a href="https://www.youtube.com/@GoldTrichloride"><img src="https://img.shields.io/badge/-GoldTrichloride-ff0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
 </p>
 
