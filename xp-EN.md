@@ -1,6 +1,6 @@
 > 📌 语言 Language: [简体中文](xp-CN.md) | English
 
-# Reflections on Gold Chloride
+# Reflections on Gold Trichloride
 
 🎵 Memorization trick: Symbols & English names of all 118 elements
 
