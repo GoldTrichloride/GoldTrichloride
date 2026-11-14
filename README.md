@@ -11,7 +11,7 @@
 </p>
 
 ### [🧪 化学开源项目总览 / Chemistry Open Source Projects Overview](./projects.md)
-### [💛 支持我 / Support Me](./donate.md)
+### [💛 支持我 / Support Me](./Donate.md)
 ---
 
 ### 关注方式 / Follow
