@@ -11,3 +11,17 @@
 
 ---
 
+📝 拼写坑：Phosphorus / Phosphorous acid
+英文里这两个词长得极近，很容易写混：
+
+- **phosphorus**：名词，磷元素（P）
+- **phosphorous**：形容词，亚磷的；`phosphorous acid` = 亚磷酸 H₃PO₃
+
+补充记忆：
+
+- -us：**元素名词**（phosphorus 磷）
+- -ous：形容词，对应低价含氧酸（-ous acid 亚某酸）
+对比：phosphoric acid 磷酸（高价，-ic）
+
+---
+
