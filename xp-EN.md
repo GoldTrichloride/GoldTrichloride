@@ -1,1 +1,1 @@
-> 📌 语言 Language: English | [简体中文](xp-CN.md)
+> 📌 语言 Language: [简体中文](xp-CN.md) | English
