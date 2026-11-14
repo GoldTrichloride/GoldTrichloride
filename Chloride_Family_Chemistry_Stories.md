@@ -9,6 +9,23 @@
 
 ---
 
+## 📑 快速导航 / Quick Navigation
+
+| 1-10 | 11-20 | 21-30 | 31-40 | 41-50 |
+| :--- | :--- | :--- | :--- | :--- |
+| [01. 硝酸蒸饭](#1-nitric-acid-steamed-rice--硝酸蒸饭) | [11. 波尔多液](#11-bordeaux-mixture-steamed-rice--波尔多液蒸饭) | [21. 氯金酸](#21-chloroauric-acid-steamed-rice--氯金酸蒸饭) | [31. 哌啶](#31-piperidine-steamed-rice--哌啶蒸饭) | [41. 苯甲酸](#41-benzoic-acid-steamed-rice--苯甲酸蒸饭) |
+| [02. 硫酸蒸饭](#2-sulfuric-acid-steamed-rice--硫酸蒸饭) | [12. 水银蒸饭](#12-mercury-steamed-rice--水银蒸饭) | [22. 玻璃水](#22-windshield-washer-fluid-steamed-rice--玻璃水蒸饭) | [32. 防冻液](#32-antifreeze-steamed-rice--防冻液蒸饭) | [42. 石油](#42-petroleum-steamed-rice--石油蒸饭) |
+| [03. 盐酸蒸饭](#3-hydrochloric-acid-steamed-rice--盐酸蒸饭) | [13. 洁厕灵](#13-toilet-cleaner-steamed-rice--洁厕灵蒸饭) | [23. 氟锑酸](#23-fluoroantimonic-acid-steamed-rice--氟锑酸蒸饭) | [33. 萘乙酸](#33-α-naphthaleneacetic-acid-steamed-rice--α-萘乙酸蒸饭) | [43. 乙酸乙酯](#43-ethyl-acetate-steamed-rice--乙酸乙酯蒸饭) |
+| [04. 王水蒸饭](#4-aqua-regia-steamed-rice--王水蒸饭) | [14. 84消毒液](#14-84-disinfectant-steamed-rice--84消毒液蒸饭) | [24. 环己烷](#24-cyclohexane-steamed-rice--环己烷蒸饭) | [34. 赤霉素](#34-gibberellin-steamed-rice--赤霉素蒸饭) | [44. 洗衣液](#44-laundry-detergent-steamed-rice--洗衣液蒸饭) |
+| [05. 石炭酸](#5-carbolic-acid-phenol-steamed-rice--石炭酸蒸饭) | [15. 氢氧化钠](#15-sodium-hydroxide-steamed-rice--氢氧化钠蒸饭) | [25. 离子液体](#25-ionic-liquid-steamed-rice--离子液体蒸饭) | [35. 苯甲醛](#35-benzaldehyde-steamed-rice--苯甲醛蒸饭) | [45. 沐浴露](#45-body-wash-steamed-rice--沐浴露蒸饭) |
+| [06. 无水乙醇](#6-absolute-ethanol-steamed-rice--无水乙醇蒸饭) | [16. 土壤浸出液](#16-soil-leachate-steamed-rice--土壤浸出液蒸饭) | [26. 机油](#26-motor-oil-steamed-rice--机油蒸饭) | [36. 液态鿔](#36-liquid-copernicium-steamed-rice--液态鿔蒸饭) | [46. 洗发水](#46-shampoo-steamed-rice--洗发水蒸饭) |
+| [07. 液溴蒸饭](#7-liquid-bromine-steamed-rice--液溴蒸饭) | [17. 硒酸蒸饭](#17-selenic-acid-steamed-rice--硒酸蒸饭) | [27. 除草剂](#27-24-d-herbicide-steamed-rice--24-d除草剂蒸饭) | [37. 绿原酸](#37-chlorogenic-acid-steamed-rice--绿原酸蒸饭) | [47. 护发素](#47-conditioner-steamed-rice--护发素蒸饭) |
+| [08. 苯蒸饭](#8-benzene-steamed-rice--苯蒸饭) | [18. 碲酸蒸饭](#18-telluric-acid-steamed-rice--碲酸蒸饭) | [28. 吲哚乙酸](#28-iaa-plant-hormone-steamed-rice--吲哚乙酸蒸饭) | [38. 邻苯二甲酸](#38-phthalic-acid-steamed-rice--邻苯二甲酸蒸饭) | [48. 聚氯乙烯](#48-pvc-melt-steamed-rice--聚氯乙烯蒸饭) |
+| [09. 高氯酸](#9-perchloric-acid-steamed-rice--高氯酸蒸饭) | [19. 钋酸蒸饭](#19-polonic-acid-steamed-rice--钋酸蒸饭) | [29. 神仙液体](#29-the-immortal-liquids-steamed-rice--神仙液体蒸饭) | [39. 间苯二甲酸](#39-isophthalic-acid-steamed-rice--间苯二甲酸蒸饭) | [49. 丙酮](#49-acetone-steamed-rice--丙酮蒸饭) |
+| [10. 银氨溶液](#10-tollens-reagent-steamed-rice--银氨溶液蒸饭) | [20. 鉝酸蒸饭](#20-livermoric-acid-steamed-rice--鉝酸蒸饭) | [30. 制冷剂](#30-refrigerant-steamed-rice--制冷剂蒸饭) | [40. 对苯二甲酸](#40-terephthalic-acid-steamed-rice--对苯二甲酸蒸饭) | [50. 甲苯蒸饭](#50-toluene-steamed-rice--甲苯蒸饭) |
+
+---
+
 ## 1. Nitric Acid Steamed Rice / 硝酸蒸饭
 
 氯总妈进厨房蒸米饭，摸过米缸突然想整高科技，扭头翻出氯总藏的稀硝酸，哐哐倒电饭锅里：“都说科技改变生活，今天咱也试试酸煮米饭，保准香！”
