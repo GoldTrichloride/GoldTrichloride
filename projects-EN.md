@@ -12,7 +12,7 @@
 - License: CC BY-SA 4.0
 - Repository: https://github.com/GoldTrichloride/isotopic-periodic-table-series
 - Attachments: C++ code that generates cell background colors according to the relative value of data for this set of periodic tables.
-- Recommended fonts: STIX Two, Xiawu Wenkai (OFL licensed, free to use)
+- Recommended fonts: STIX Two, LXGW Wenkai (OFL licensed, free to use)
 
 ## 🔹 Element Dossier
 [![Element Dossier Cover](./assets/000-cover.png)](https://github.com/GoldTrichloride/element-dossier)
