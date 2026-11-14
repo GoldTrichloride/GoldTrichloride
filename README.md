@@ -10,6 +10,10 @@
 <p>Who are the most professional actors? Microscopic particles!
 </p>
 
+### [🧪 化学开源项目总览 / Chemistry Open Source Projects Overview](./projects.md)
+
+---
+
 ### 关注方式 / Follow
 <p align="center">
 <a href="https://space.bilibili.com/3493280868206890"><img src="https://img.shields.io/badge/-氯化金-fb7299?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili"></a>
