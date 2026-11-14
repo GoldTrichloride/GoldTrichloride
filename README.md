@@ -1,7 +1,10 @@
 
+<p align="center">谁是最专业的演员？微观粒子！</p>
+<p align="center"><small>Who are the most professional actors? Microscopic particles!</small></p>
+
+---
 
 ### 关注方式 / Follow
-
 <p align="center">
 <a href="https://space.bilibili.com/3493280868296898"><img src="https://img.shields.io/badge/-氯化金-fb7299?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili"></a>
 <a href="https://www.youtube.com/@GoldTrichloride"><img src="https://img.shields.io/badge/-GoldTrichloride-ff0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
