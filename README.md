@@ -10,13 +10,22 @@
 <p>Who are the most professional actors? Microscopic particles!
 </p>
 
-### [🧪 化学开源项目总览 / Chemistry Open Source Projects Overview](./projects.md)
-### [☢️ 经验之谈 / Experiences](./xp-CN.md)
-### [⚠️ 氯家化学灾难喜剧集 / Chloride Family Chemistry Comedies](./Chloride_Family_Chemistry_Stories.md)
-### [💛 支持我 / Support Me](./Donate.md)
+### 🧪 严谨区 Rigorous
+
+- [🧪 化学开源项目总览 / Chemistry Open Source Projects Overview](./projects.md)
+- [🎭 经验之谈 / Experiences](./xp-CN.md)
+
+### 🎭 梗区 Memes
+
+- [⚠️ 氯家化学灾难剧集 / Chloride Family Chemistry Stories](./Chloride_Family_Chemistry_Stories.md)
+
+### 💛 打赏 Donate
+
+- [💛 支持我 / Support Me](./Donate.md)
+
 ---
 
-### 关注方式 / Follow
+### 📡 关注方式 / Follow
 <p align="center">
 <a href="https://space.bilibili.com/3493280868206890"><img src="https://img.shields.io/badge/-氯化金-fb7299?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili"></a>
 <a href="https://www.youtube.com/@GoldTrichloride"><img src="https://img.shields.io/badge/-GoldTrichloride-ff0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
