@@ -776,13 +776,13 @@ In Group 18 but reactive (An element). [Oganesson]
 
 Sing Sing Red Indigo (Two elements). [Rubidium Indium]
 
-I wanna sleep with _ <element(s)> in my arms. [Ethanol: I want these four elements most: Pure White body with Gorgeous Rose headdress--Rhodium (NO.45), Greenish-White handsome guy--Praseodymium (NO.59), Cyan-White handsome guy Thulium (NO.69) and Warm-Yellow wealthy Gold/Aurum (NO.79)!]
+I wanna sleep with _ <element(s)> in my arms. [Gold Trichloride: I want these four elements most: Pure White body with Gorgeous Rose headdress--Rhodium (NO.45), Greenish-White handsome guy--Praseodymium (NO.59), Cyan-White handsome guy Thulium (NO.69) and Warm-Yellow wealthy Gold/Aurum (NO.79)!]
 
 Element with rose headdress and likes catalyst. [Rhodium]
 
 Element that tasteless but fatal. [Thallium]
 
-Which element has the most comfortable feeling when you sleep with it in your arms? Why? [Potassium Fluoride: My answer is: Greenish-White handsome guy--Praseodymium! At least, it has the fragrance of green Duo and Vitality of young people. And lime green, Praseodymium ion's color is my favorite color during my childhood, sequela's here.]
+Which element has the most comfortable feeling when you sleep with it in your arms? Why? [Gold Trichloride: My answer is: Greenish-White handsome guy--Praseodymium! At least, it has the fragrance of green Duo and Vitality of young people. And lime green, Praseodymium ion's color is my favorite color during my childhood, sequela's here.]
 
 Which element's favorite is forming chains and cycles? [Carbon and its neighbors]
 
@@ -794,7 +794,7 @@ Which element can costume rainbow unicorn? [Bismuth]
 
 Who's the most popular element? [Gold/Aurum]
 
-Choose an element and it'll be your lifelong amulet. [Dimethyl Hydrargyrum: I'd choose Praseodymium when close my eyes! Its color's similar to Duo and I'll feel safety everytime.]
+Choose an element and it'll be your lifelong amulet. [Gold Trichloride: I'd choose Praseodymium when close my eyes! Its color's similar to Duo and I'll feel safety everytime.]
 
 Who's the owl that is green and handsome? [No need to doubt, Duo!]
 
@@ -802,17 +802,17 @@ Something is wrong here... My Thulium is missing! But there's Ytterbium! What's 
 
 What does sleeping with 118 elements' Particleballs in your arms one by one through 118 nights feel like? [Adorable, soft, colorful... Extremely comfortable sleeping through about 4 months in short. --The feeling of Particleballs calms my soul.]
 
-Choose an element and sleep with it while it's in your arms. Don't worry, it'll be extremely comfortable. [Plutonium Chloride: I want to choose the handsome Greenish-White metal, Praseodymium at first. But the best solution for me is to do this to all elements one by one, and I'll find who's the most adorable & comfortable guy on the Periodic Table. Because, all elements're in my sworn family, they're all my sworn brothers and sisters. Hugging them're just my basic love.]
+Choose an element and sleep with it while it's in your arms. Don't worry, it'll be extremely comfortable. [Gold Trichloride: I want to choose the handsome Greenish-White metal, Praseodymium at first. But the best solution for me is to do this to all elements one by one, and I'll find who's the most adorable & comfortable guy on the Periodic Table. Because, all elements're in my sworn family, they're all my sworn brothers and sisters. Hugging them're just my basic love.]
 
-Choose a prime number and embrace the Particleball of the corresponding atomic number's element. [Thulium Chloride: I choose 59, Praseodymium, I'm coming!]
+Choose a prime number and embrace the Particleball of the corresponding atomic number's element. [Gold Trichloride: I choose 59, Praseodymium, I'm coming!]
 
-Choose a composite number and embrace the Particleball of the corresponding atomic number's element. [Gold Fluoride: I choose 45, Rhodium, I'm coming!]
+Choose a composite number and embrace the Particleball of the corresponding atomic number's element. [Gold Trichloride: I choose 45, Rhodium, I'm coming!]
 
-Choose a Mersenne prime number and embrace the Particleball of the corresponding atomic number's element. [Ammonium Chloride: There's only 3, 7, 31 are available... I choose 7, Nitrogen, I'm coming!]
+Choose a Mersenne prime number and embrace the Particleball of the corresponding atomic number's element. [Gold Trichloride: There's only 3, 7, 31 are available... I choose 7, Nitrogen, I'm coming!]
 
-Choose a magic number and embrace the Particleball of the corresponding mass number's most stable nuclide. [Sodium Polonide: I choose 196, Mercury/Hydrargyrum-196, I'm coming!]
+Choose a magic number and embrace the Particleball of the corresponding mass number's most stable nuclide. [Gold Trichloride: I choose 196, Mercury/Hydrargyrum-196, I'm coming!]
 
-Choose a magic number and embrace the Particleball of the corresponding proton/neutron number's nuclide. [Sodium Chloride: I choose 82. Praseodymium-141 with 82 neutrons, I'm coming!]
+Choose a magic number and embrace the Particleball of the corresponding proton/neutron number's nuclide. [Gold Trichloride: I choose 82. Praseodymium-141 with 82 neutrons, I'm coming!]
 
 What'll you do to a Particleball when it's sleeping with you in your arms? [Hold it tightly, kiss it with fondle. Because it's just an incarnation of an atom or other particles, it's safe at all.]
 
