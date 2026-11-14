@@ -13,3 +13,17 @@ Note: This ambiguity is unique to Chinese. In English, selenium and tin sound di
 
 ---
 
+📝 Spelling trap: Phosphorus vs Phosphorous acid
+These two look nearly identical and are easy to mix up:
+
+- **phosphorus**: noun, the element phosphorus (P)
+- **phosphorous**: adjective, meaning phosphorous; `phosphorous acid` = H₃PO₃
+
+Mnemonic:
+
+- -us: noun for the element
+- -ous: adjective, for the lower‑valence oxyacid (-ous acid)
+Compare: phosphoric acid (higher valence, phosphoric = 磷酸)
+
+---
+
