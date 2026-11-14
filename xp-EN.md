@@ -2,6 +2,18 @@
 
 ---
 
+🎵 Memorization trick: Symbols & English names of all 118 elements
+
+Link: https://www.youtube.com/watch?v=rz4Dd1I_fX0
+
+To memorize the symbols and English names of the 118 chemical elements, learn to sing the Periodic Table Song by ASAP Science.
+
+The rhythm helps you repeat the names naturally, which is much easier than rote memorization.
+
+Note: This song includes all 118 elements in standard periodic table order, great for building familiarity with the sequence.
+
+---
+
 🗣️ Spoken pronunciation trick: Selenium (Se) & Tin (Sn)
 These two share the same Mandarin pronunciation xī, which causes confusion in verbal communication.
 My personal convention for spoken Chinese:
