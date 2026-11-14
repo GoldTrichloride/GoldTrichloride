@@ -1,8 +1,14 @@
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/AuCl3-dark.svg">
+  <img src="./assets/AuCl3-light.svg" width="540" alt="AuCl₃ 转化反应链">
+</picture>
+</p>
 
-<p align="center">谁是最专业的演员？微观粒子！</p>
-<p align="center"><small>Who are the most professional actors? Microscopic particles!</small></p>
-
----
+<p align="center">
+<h2>谁是最专业的演员？微观粒子！
+<p>Who are the most professional actors? Microscopic particles!
+</p>
 
 ### 关注方式 / Follow
 <p align="center">
