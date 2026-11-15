@@ -19,6 +19,7 @@
 
 - [⚠️ 氯家化学灾难剧集 / Chloride Family Chemistry Stories](./Chloride_Family_Chemistry_Stories.md)
 - [🧩 填词脑洞集 / Can you guess?](./Can_you_guess.md)
+- [✍️ 我的名称来源 / The Origin of my name](./The_Origin_of_Mr_Chloride.md)
 
 ### 💛 打赏 Donate
 
