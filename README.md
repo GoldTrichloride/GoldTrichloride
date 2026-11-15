@@ -18,6 +18,7 @@
 ### 🎭 梗区 Memes
 
 - [⚠️ 氯家化学灾难剧集 / Chloride Family Chemistry Stories](./Chloride_Family_Chemistry_Stories.md)
+- [🧂 氯总的“食盐替代品”打假指南 / Mr. Chloride's Guide to "Table Salt Alternatives"](./table_salt_alteratives.md)
 - [🧩 填词脑洞集 / Can you guess?](./Can_you_guess.md)
 - [✍️ 我的名称来源 / The Origin of my name](./The_Origin_of_Mr_Chloride.md)
 
