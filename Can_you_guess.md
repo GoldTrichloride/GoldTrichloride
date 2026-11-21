@@ -12,6 +12,7 @@
 - [Week 9](#can-you-guess-week-9--october-25-2026---october-30-2026)
 - [Week 10](#can-you-guess-week-10--november-1-2026---november-6-2026)
 - [Week 11](#can-you-guess-week-11--november-8-2026---november-13-2026)
+- [Week 12](#can-you-guess-week-12--november-15-2026---november-20-2026)
 
 ### 伊始：一个夜晚（2026年8月19日23:00 - 2026年8月20日 01:30）的TON-618级脑洞
 ### Inception: A TON-618-level brainstorm from one night (23:00, August 19, 2026 - 01:30, August 20, 2026)
@@ -1355,3 +1356,182 @@ You'd choose A: get 700 total in traditional exam but can't create anything by h
 
 ---
 
+### Can you guess? (Week 12 / November 15, 2026 - November 20, 2026)
+
+[Words in brackets: Answer of my first intuition]
+
+Words with asterisk: Words that I know spelling but don't know meaning*
+
+g_u_: [Gauss]
+
+c_r_: [chromium] courage corporate cooperation cooperate
+
+p_t_: [platinum] pity patch puncture party particular
+
+d_n_t_t_: [denaturation]
+
+s_b_: [stibium] stickybeak somebody subscribe submit subject substance
+
+r_k_: [rookie] rebuke
+
+g_b_: [goblet] gigabyte
+
+f_o_: [famous] fluorine
+
+h_s_: [hassium] Hessen house household haste husband
+
+_ip: [equip] sip
+
+v_b_: [viber*] verbal
+
+m_rt_: [martial*] martyr*
+
+_p_y: [opportunity] apply capacity
+
+g_w_: [Greenwich] Greenwood 
+
+v_g_: [vintage] vega voyage voltage vague vagina
+
+t_j_: [Trajan] trajectory* traject*
+
+e_p_r_: [experience] exposure expert export emperor
+
+q_y: [quality] quantity*
+
+r_t: [root] rest rat raft
+
+z_m: [zirconium] zoom
+
+s_ll_: [seller] Sally sallow* statistically
+
+b_o_: [brought] boron bromine brochure*
+
+s_y: [say] satay sunny Sunday sadly Sally soy stay
+
+p_r_: [pardon] part particular particle
+
+v_c_: [vacuum] vertical* voucher valence vehicle vaccine* vacation
+
+n_f_: [Nefario] nefarious* NTFS
+
+o_t_: [October] octal octopus octagon Otto orthographic orthotelluric orthotellurate orthopolonic orthopolonate ortholivermoric ortholivermorate
+
+j_p_: [jipper] Jackpoint jumper
+
+r_r_: [rare] rarely reference roaring
+
+_w_t_: [sweaty] switch
+
+_p_h: [approach]
+
+m_n_g_: [manage] manager monologue
+
+eu_ia: [Eurasia] euphoria
+
+b_k: [bunk] book back break beak black block brick bulk
+
+r_h_: [RoHS] roughly
+
+d_j_: [Daejeon] deject* deja-vu 
+
+m_n_: magnesium [manganese] molybdenum mendelevium meitnerium monoxide monopoly* monotonous* monopolize*
+
+b_f_: [buffalo*] baffle* before beefy* briefly*
+
+Question & [Answer]
+
+Which element should you find to help you avoid stickybeak from parents? Why? [Aluminum or Lead/Plumbum. Intaking moderate of them can remove unnecessary part of Intelligence Quotient of them that's for stickybeak so they'll stop stickybeak to you.]
+
+What's the date of the happiest time in your whole life? Why? [Gold Trichloride: July 25, 2017. It's day 4 in Hainan self-driving tour and we arrived at the Sheraton's Shenzhou Peninsula Hotel at that day. The beach here was extremely clean and sea waves were extremely excited, with salty taste of sea water. This record'll never be broken in the rest of my life because of complicated crisis since January 1, 2020 and never stop. I'll remember this Utopia & euphoria's date through my whole life, when I was 8 and half years old that time.]
+
+From 2^1, 2^2 to 2^40, what're them? 
+
+[
+
+2^1=2
+
+2^2=4
+
+2^3=8
+
+2^4=16
+
+2^5=32
+
+2^6=64
+
+2^7=128
+
+2^8=256
+
+2^9=512
+
+2^10=1024
+
+2^11=2048
+
+2^12=4096
+
+2^13=8192
+
+2^14=16384
+
+2^15=32768
+
+2^16=65536
+
+2^17=131072
+
+2^18=262144
+
+2^19=524288
+
+2^20=1048576
+
+2^21=2097152
+
+2^22=4194304
+
+2^23=8388608
+
+2^24=16777216
+
+2^25=33554432
+
+2^26=67108864
+
+2^27=134217728
+
+2^28=268435456
+
+2^29=536870912
+
+2^30=1073741824
+
+2^31=2147483648
+
+2^32=4294967296
+
+2^33=8589934592
+
+2^34=17179869184
+
+2^35=34359738368
+
+2^36=68719476736
+
+2^37=137438953472
+
+2^38=274877906944
+
+2^39=549755813888
+
+2^40=1099511627776
+
+]
+
+What does the abbreviation 'ATBC' mean? What is it? [Acetyl TriButyl Citrate, the best plasticizer of PolyVinyl Chloride for inflatables ever]
+
+Elements that named after a person are not all artificial elements, there's an exception. Who's this exception? [Gadolinium. It's named after J.Gadolin]
+
+---
